@@ -1,0 +1,4 @@
+
+big.js
+bron: https://github.com/MikeMcl/big.js
+Documentatie in: http://mikemcl.github.io/big.js/
